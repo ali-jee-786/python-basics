@@ -24,10 +24,6 @@ end = 50
 x = random.randint(start, end)
 print("Random Number b/w %s & %s is %s" %(start, end, x))
 
-#----------------------------------------------------------------------------------------------------------
-
-#Write a Python program to print all prime numbers within a specified range.
-
 
 # --------------------------------------------------Python:Projects---------------------------------------------------------------
 
